@@ -1,5 +1,5 @@
+#!/usr/bin/php
 <?php
-
 /*--------MY_CONCAT---------*/
 
 function my_concat($str1, $str2)

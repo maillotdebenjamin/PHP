@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?php
 
 function display_array($array)
