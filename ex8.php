@@ -18,6 +18,6 @@ function my_print_args(...$array)
     return $array;
 }
 
-my_print_args("ccouco", "bonjjou", 42, "wa");
+my_print_args("coucou", "bonjour", 42, "wa");
 
 ?>

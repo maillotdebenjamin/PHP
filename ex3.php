@@ -9,5 +9,4 @@ function my_concat($str1, $str2)
 }
 
 echo my_concat("Hello", "World !");
-
 ?>
